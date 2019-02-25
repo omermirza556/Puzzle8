@@ -3,18 +3,6 @@
  * array.
  * 
  * @author omer
- * 
- *         NOTE To future self:
- * 
- *         I know how hard you've been working on this class and while I am not
- *         done, you are (hopefully). I may have janked this code together but
- *         it still works. You, future me, are probably judging me for my
- *         elementary coding style, HOWEVER, you probably forgot how to do any
- *         of this shit. lmao
- * 
- * 
- *         This class holds the current state of the board, note I wrote this
- *         class way before I did the grpah class so it is over kill
  *
  */
 public class PuzzleState {
